@@ -1,0 +1,40 @@
+# harness-engineering
+
+> Harness Engineering — the canonical reference: definition, taxonomy, memory, observability, evaluation, orchestration, security, governance, plus the enterprise agent patterns.
+
+Generated from https://santismm.com — the single source of truth. Do not edit by hand.
+
+## Handbook
+
+- [HRN-001 Harness Engineering: Definition and Overview](handbook/HRN-001-definition-and-overview.md) — canonical: https://santismm.com/en/handbook/definition-and-overview
+- [HRN-002 A Brief History of Harness Engineering](handbook/HRN-002-a-brief-history-of-harness-engineering.md) — canonical: https://santismm.com/en/handbook/a-brief-history-of-harness-engineering
+- [HRN-003 The Harness Taxonomy](handbook/HRN-003-the-harness-taxonomy.md) — canonical: https://santismm.com/en/handbook/the-harness-taxonomy
+- [HRN-004 Harness Engineering Principles](handbook/HRN-004-harness-engineering-principles.md) — canonical: https://santismm.com/en/handbook/harness-engineering-principles
+- [HRN-005 Memory in Agentic Systems](handbook/HRN-005-memory-in-agentic-systems.md) — canonical: https://santismm.com/en/handbook/memory-in-agentic-systems
+- [HRN-006 Observability for Agentic Systems](handbook/HRN-006-observability-for-agentic-systems.md) — canonical: https://santismm.com/en/handbook/observability-for-agentic-systems
+- [HRN-007 Evaluation of Agentic Systems](handbook/HRN-007-evaluation-of-agentic-systems.md) — canonical: https://santismm.com/en/handbook/evaluation-of-agentic-systems
+- [HRN-008 Governance within the Harness](handbook/HRN-008-governance-within-the-harness.md) — canonical: https://santismm.com/en/handbook/governance-within-the-harness
+- [HRN-009 Planning and Goal Management](handbook/HRN-009-planning-and-goal-management.md) — canonical: https://santismm.com/en/handbook/planning-and-goal-management
+- [HRN-010 Orchestration](handbook/HRN-010-orchestration.md) — canonical: https://santismm.com/en/handbook/orchestration
+- [HRN-011 Security for Agentic Systems](handbook/HRN-011-security-for-agentic-systems.md) — canonical: https://santismm.com/en/handbook/security-for-agentic-systems
+- [HRN-012 Case Studies in Harness Engineering](handbook/HRN-012-case-studies-in-harness-engineering.md) — canonical: https://santismm.com/en/handbook/case-studies-in-harness-engineering
+- [HRN-013 Glossary](handbook/HRN-013-glossary.md) — canonical: https://santismm.com/en/handbook/glossary
+- [HRN-014 Bibliography](handbook/HRN-014-bibliography.md) — canonical: https://santismm.com/en/handbook/bibliography
+
+## Patterns
+
+- [Context Compression](patterns/context-compression.md) — canonical: https://santismm.com/en/patterns/context-compression
+- [Evaluator-Optimizer](patterns/evaluator-optimizer.md) — canonical: https://santismm.com/en/patterns/evaluator-optimizer
+- [Goal Decomposition](patterns/goal-decomposition.md) — canonical: https://santismm.com/en/patterns/goal-decomposition
+- [Human Approval Gate](patterns/human-approval-gate.md) — canonical: https://santismm.com/en/patterns/human-approval-gate
+- [Human Escalation](patterns/human-escalation.md) — canonical: https://santismm.com/en/patterns/human-escalation
+- [Long-Term Memory](patterns/long-term-memory.md) — canonical: https://santismm.com/en/patterns/long-term-memory
+- [Orchestrator-Workers](patterns/orchestrator-workers.md) — canonical: https://santismm.com/en/patterns/orchestrator-workers
+- [Parallelization](patterns/parallelization.md) — canonical: https://santismm.com/en/patterns/parallelization
+- [Prompt Chaining](patterns/prompt-chaining.md) — canonical: https://santismm.com/en/patterns/prompt-chaining
+- [Recovery Strategy](patterns/recovery-strategy.md) — canonical: https://santismm.com/en/patterns/recovery-strategy
+- [Reflection](patterns/reflection.md) — canonical: https://santismm.com/en/patterns/reflection
+- [Routing](patterns/routing.md) — canonical: https://santismm.com/en/patterns/routing
+- [Semantic Caching](patterns/semantic-caching.md) — canonical: https://santismm.com/en/patterns/semantic-caching
+- [Supervisor Agent](patterns/supervisor-agent.md) — canonical: https://santismm.com/en/patterns/supervisor-agent
+- [Task Prioritization](patterns/task-prioritization.md) — canonical: https://santismm.com/en/patterns/task-prioritization
