@@ -3,12 +3,12 @@ slug: "semantic-caching"
 title: "Semantic Caching"
 type: "pattern"
 category: "cost"
-evidence_level: "industry_observation"
+evidence_level: "production"
 source: "https://santismm.com/en/patterns/semantic-caching"
 ---
 # Semantic Caching
 
-> Evidence: industry_observation · Confidence: medium · Source: industry_observation
+> Evidence: production · Confidence: low · Source: production_system, personal_experience, industry_observation
 
 Canonical: https://santismm.com/en/patterns/semantic-caching
 

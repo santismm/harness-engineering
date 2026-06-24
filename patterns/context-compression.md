@@ -3,12 +3,12 @@ slug: "context-compression"
 title: "Context Compression"
 type: "pattern"
 category: "cost"
-evidence_level: "industry_observation"
+evidence_level: "production"
 source: "https://santismm.com/en/patterns/context-compression"
 ---
 # Context Compression
 
-> Evidence: industry_observation · Confidence: medium · Source: industry_observation, paper
+> Evidence: production · Confidence: low · Source: production_system, personal_experience, industry_observation
 
 Canonical: https://santismm.com/en/patterns/context-compression
 

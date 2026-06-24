@@ -3,12 +3,12 @@ slug: "task-prioritization"
 title: "Task Prioritization"
 type: "pattern"
 category: "orchestration"
-evidence_level: "industry_observation"
+evidence_level: "production"
 source: "https://santismm.com/en/patterns/task-prioritization"
 ---
 # Task Prioritization
 
-> Evidence: industry_observation · Confidence: medium · Source: industry_observation
+> Evidence: production · Confidence: low · Source: production_system, personal_experience, industry_observation
 
 Canonical: https://santismm.com/en/patterns/task-prioritization
 

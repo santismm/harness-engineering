@@ -3,12 +3,12 @@ slug: "long-term-memory"
 title: "Long-Term Memory"
 type: "pattern"
 category: "retrieval"
-evidence_level: "industry_observation"
+evidence_level: "production"
 source: "https://santismm.com/en/patterns/long-term-memory"
 ---
 # Long-Term Memory
 
-> Evidence: industry_observation · Confidence: high · Source: industry_observation, paper
+> Evidence: production · Confidence: low · Source: production_system, personal_experience, industry_observation
 
 Canonical: https://santismm.com/en/patterns/long-term-memory
 

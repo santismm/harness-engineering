@@ -3,12 +3,12 @@ slug: "orchestrator-workers"
 title: "Orchestrator-Workers"
 type: "pattern"
 category: "orchestration"
-evidence_level: "industry_observation"
+evidence_level: "production"
 source: "https://santismm.com/en/patterns/orchestrator-workers"
 ---
 # Orchestrator-Workers
 
-> Evidence: industry_observation · Confidence: high · Source: industry_observation, paper
+> Evidence: production · Confidence: low · Source: production_system, personal_experience, industry_observation
 
 Canonical: https://santismm.com/en/patterns/orchestrator-workers
 

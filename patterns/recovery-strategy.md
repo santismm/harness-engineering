@@ -3,12 +3,12 @@ slug: "recovery-strategy"
 title: "Recovery Strategy"
 type: "pattern"
 category: "reliability"
-evidence_level: "industry_observation"
+evidence_level: "production"
 source: "https://santismm.com/en/patterns/recovery-strategy"
 ---
 # Recovery Strategy
 
-> Evidence: industry_observation · Confidence: high · Source: industry_observation
+> Evidence: production · Confidence: low · Source: production_system, personal_experience, industry_observation
 
 Canonical: https://santismm.com/en/patterns/recovery-strategy
 
