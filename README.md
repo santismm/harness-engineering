@@ -4,12 +4,15 @@
 
 **This repository is generated** from [santismm.com](https://santismm.com) — the canonical,
 single-source-of-truth knowledge platform. Do not edit it by hand; changes are
-overwritten on the next sync. Open issues and PRs against the
-[source repository](https://github.com/santismm/santismm.com) instead.
+overwritten on the next sync. The source repository is private, so corrections
+and suggestions go through [the site](https://santismm.com/en/about) rather than a pull
+request here.
 
 - Canonical platform: https://santismm.com
+- **For AI agents** — every machine-readable surface, as followable links: https://santismm.com/en/for-agents
 - Full machine-readable corpus: https://santismm.com/llms-full.txt
-- Content © Santiago Santa María Morales. Attribution required.
+- MCP endpoint (native agent access): https://santismm.com/mcp — docs at https://santismm.com/en/mcp
+- Licence: Content © Santiago Santa María Morales, licensed CC BY 4.0. Attribution required: credit the author and link the canonical URL. (CC-BY-4.0, https://creativecommons.org/licenses/by/4.0/)
 
 ## Contents
 
