@@ -29,10 +29,10 @@ Generated from https://santismm.com — the single source of truth. Do not edit 
 - [HRN-007 Avaliação de sistemas agênticos (pt)](handbook/HRN-007-evaluation-of-agentic-systems.pt.md) — canonical: https://santismm.com/pt/handbook/evaluation-of-agentic-systems
 - [HRN-008 Gobernanza dentro del harness (es)](handbook/HRN-008-governance-within-the-harness.es.md) — canonical: https://santismm.com/es/handbook/governance-within-the-harness
 - [HRN-008 Governance within the Harness](handbook/HRN-008-governance-within-the-harness.md) — canonical: https://santismm.com/en/handbook/governance-within-the-harness
-- [HRN-008 Governação dentro do harness (pt)](handbook/HRN-008-governance-within-the-harness.pt.md) — canonical: https://santismm.com/pt/handbook/governance-within-the-harness
+- [HRN-008 Governança dentro do harness (pt)](handbook/HRN-008-governance-within-the-harness.pt.md) — canonical: https://santismm.com/pt/handbook/governance-within-the-harness
 - [HRN-009 Planificación y gestión de objetivos (es)](handbook/HRN-009-planning-and-goal-management.es.md) — canonical: https://santismm.com/es/handbook/planning-and-goal-management
 - [HRN-009 Planning and Goal Management](handbook/HRN-009-planning-and-goal-management.md) — canonical: https://santismm.com/en/handbook/planning-and-goal-management
-- [HRN-009 Planeamento e gestão de objetivos (pt)](handbook/HRN-009-planning-and-goal-management.pt.md) — canonical: https://santismm.com/pt/handbook/planning-and-goal-management
+- [HRN-009 Planejamento e gestão de objetivos (pt)](handbook/HRN-009-planning-and-goal-management.pt.md) — canonical: https://santismm.com/pt/handbook/planning-and-goal-management
 - [HRN-010 Orquestación (es)](handbook/HRN-010-orchestration.es.md) — canonical: https://santismm.com/es/handbook/orchestration
 - [HRN-010 Orchestration](handbook/HRN-010-orchestration.md) — canonical: https://santismm.com/en/handbook/orchestration
 - [HRN-010 Orquestração (pt)](handbook/HRN-010-orchestration.pt.md) — canonical: https://santismm.com/pt/handbook/orchestration
