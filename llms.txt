@@ -8,23 +8,46 @@ Generated from https://santismm.com — the single source of truth. Do not edit 
 
 - [HRN-001 Ingeniería de Harness: definición y panorama (es)](handbook/HRN-001-definition-and-overview.es.md) — canonical: https://santismm.com/es/handbook/definition-and-overview
 - [HRN-001 Harness Engineering: Definition and Overview](handbook/HRN-001-definition-and-overview.md) — canonical: https://santismm.com/en/handbook/definition-and-overview
+- [HRN-001 Engenharia de Harness: definição e panorama (pt)](handbook/HRN-001-definition-and-overview.pt.md) — canonical: https://santismm.com/pt/handbook/definition-and-overview
+- [HRN-002 Breve historia de la Ingeniería de Harness (es)](handbook/HRN-002-a-brief-history-of-harness-engineering.es.md) — canonical: https://santismm.com/es/handbook/a-brief-history-of-harness-engineering
 - [HRN-002 A Brief History of Harness Engineering](handbook/HRN-002-a-brief-history-of-harness-engineering.md) — canonical: https://santismm.com/en/handbook/a-brief-history-of-harness-engineering
+- [HRN-002 Breve história da Engenharia de Harness (pt)](handbook/HRN-002-a-brief-history-of-harness-engineering.pt.md) — canonical: https://santismm.com/pt/handbook/a-brief-history-of-harness-engineering
 - [HRN-003 La taxonomía del harness (es)](handbook/HRN-003-the-harness-taxonomy.es.md) — canonical: https://santismm.com/es/handbook/the-harness-taxonomy
 - [HRN-003 The Harness Taxonomy](handbook/HRN-003-the-harness-taxonomy.md) — canonical: https://santismm.com/en/handbook/the-harness-taxonomy
 - [HRN-003 A taxonomia do harness (pt)](handbook/HRN-003-the-harness-taxonomy.pt.md) — canonical: https://santismm.com/pt/handbook/the-harness-taxonomy
 - [HRN-004 Principios de Ingeniería de Harness (es)](handbook/HRN-004-harness-engineering-principles.es.md) — canonical: https://santismm.com/es/handbook/harness-engineering-principles
 - [HRN-004 Harness Engineering Principles](handbook/HRN-004-harness-engineering-principles.md) — canonical: https://santismm.com/en/handbook/harness-engineering-principles
 - [HRN-004 Princípios de Engenharia de Harness (pt)](handbook/HRN-004-harness-engineering-principles.pt.md) — canonical: https://santismm.com/pt/handbook/harness-engineering-principles
+- [HRN-005 Memoria en sistemas agénticos (es)](handbook/HRN-005-memory-in-agentic-systems.es.md) — canonical: https://santismm.com/es/handbook/memory-in-agentic-systems
 - [HRN-005 Memory in Agentic Systems](handbook/HRN-005-memory-in-agentic-systems.md) — canonical: https://santismm.com/en/handbook/memory-in-agentic-systems
+- [HRN-005 Memória em sistemas agênticos (pt)](handbook/HRN-005-memory-in-agentic-systems.pt.md) — canonical: https://santismm.com/pt/handbook/memory-in-agentic-systems
+- [HRN-006 Observabilidad para sistemas agénticos (es)](handbook/HRN-006-observability-for-agentic-systems.es.md) — canonical: https://santismm.com/es/handbook/observability-for-agentic-systems
 - [HRN-006 Observability for Agentic Systems](handbook/HRN-006-observability-for-agentic-systems.md) — canonical: https://santismm.com/en/handbook/observability-for-agentic-systems
+- [HRN-006 Observabilidade para sistemas agênticos (pt)](handbook/HRN-006-observability-for-agentic-systems.pt.md) — canonical: https://santismm.com/pt/handbook/observability-for-agentic-systems
+- [HRN-007 Evaluación de sistemas agénticos (es)](handbook/HRN-007-evaluation-of-agentic-systems.es.md) — canonical: https://santismm.com/es/handbook/evaluation-of-agentic-systems
 - [HRN-007 Evaluation of Agentic Systems](handbook/HRN-007-evaluation-of-agentic-systems.md) — canonical: https://santismm.com/en/handbook/evaluation-of-agentic-systems
+- [HRN-007 Avaliação de sistemas agênticos (pt)](handbook/HRN-007-evaluation-of-agentic-systems.pt.md) — canonical: https://santismm.com/pt/handbook/evaluation-of-agentic-systems
+- [HRN-008 Gobernanza dentro del harness (es)](handbook/HRN-008-governance-within-the-harness.es.md) — canonical: https://santismm.com/es/handbook/governance-within-the-harness
 - [HRN-008 Governance within the Harness](handbook/HRN-008-governance-within-the-harness.md) — canonical: https://santismm.com/en/handbook/governance-within-the-harness
+- [HRN-008 Governação dentro do harness (pt)](handbook/HRN-008-governance-within-the-harness.pt.md) — canonical: https://santismm.com/pt/handbook/governance-within-the-harness
+- [HRN-009 Planificación y gestión de objetivos (es)](handbook/HRN-009-planning-and-goal-management.es.md) — canonical: https://santismm.com/es/handbook/planning-and-goal-management
 - [HRN-009 Planning and Goal Management](handbook/HRN-009-planning-and-goal-management.md) — canonical: https://santismm.com/en/handbook/planning-and-goal-management
+- [HRN-009 Planeamento e gestão de objetivos (pt)](handbook/HRN-009-planning-and-goal-management.pt.md) — canonical: https://santismm.com/pt/handbook/planning-and-goal-management
+- [HRN-010 Orquestación (es)](handbook/HRN-010-orchestration.es.md) — canonical: https://santismm.com/es/handbook/orchestration
 - [HRN-010 Orchestration](handbook/HRN-010-orchestration.md) — canonical: https://santismm.com/en/handbook/orchestration
+- [HRN-010 Orquestração (pt)](handbook/HRN-010-orchestration.pt.md) — canonical: https://santismm.com/pt/handbook/orchestration
+- [HRN-011 Seguridad para sistemas agénticos (es)](handbook/HRN-011-security-for-agentic-systems.es.md) — canonical: https://santismm.com/es/handbook/security-for-agentic-systems
 - [HRN-011 Security for Agentic Systems](handbook/HRN-011-security-for-agentic-systems.md) — canonical: https://santismm.com/en/handbook/security-for-agentic-systems
+- [HRN-011 Segurança para sistemas agênticos (pt)](handbook/HRN-011-security-for-agentic-systems.pt.md) — canonical: https://santismm.com/pt/handbook/security-for-agentic-systems
+- [HRN-012 Casos de estudio en Ingeniería de Harness (es)](handbook/HRN-012-case-studies-in-harness-engineering.es.md) — canonical: https://santismm.com/es/handbook/case-studies-in-harness-engineering
 - [HRN-012 Case Studies in Harness Engineering](handbook/HRN-012-case-studies-in-harness-engineering.md) — canonical: https://santismm.com/en/handbook/case-studies-in-harness-engineering
+- [HRN-012 Estudos de caso em Engenharia de Harness (pt)](handbook/HRN-012-case-studies-in-harness-engineering.pt.md) — canonical: https://santismm.com/pt/handbook/case-studies-in-harness-engineering
+- [HRN-013 Glosario (es)](handbook/HRN-013-glossary.es.md) — canonical: https://santismm.com/es/handbook/glossary
 - [HRN-013 Glossary](handbook/HRN-013-glossary.md) — canonical: https://santismm.com/en/handbook/glossary
+- [HRN-013 Glossário (pt)](handbook/HRN-013-glossary.pt.md) — canonical: https://santismm.com/pt/handbook/glossary
+- [HRN-014 Bibliografía (es)](handbook/HRN-014-bibliography.es.md) — canonical: https://santismm.com/es/handbook/bibliography
 - [HRN-014 Bibliography](handbook/HRN-014-bibliography.md) — canonical: https://santismm.com/en/handbook/bibliography
+- [HRN-014 Bibliografia (pt)](handbook/HRN-014-bibliography.pt.md) — canonical: https://santismm.com/pt/handbook/bibliography
 
 ## Patterns
 
