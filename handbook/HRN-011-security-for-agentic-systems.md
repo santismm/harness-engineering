@@ -1,6 +1,7 @@
 ---
 id: "HRN-011"
 title: "Security for Agentic Systems"
+locale: "en"
 source: "https://santismm.com/en/handbook/security-for-agentic-systems"
 ---
 # Security for Agentic Systems

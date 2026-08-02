@@ -1,6 +1,7 @@
 ---
 id: "HRN-012"
 title: "Case Studies in Harness Engineering"
+locale: "en"
 source: "https://santismm.com/en/handbook/case-studies-in-harness-engineering"
 ---
 # Case Studies in Harness Engineering

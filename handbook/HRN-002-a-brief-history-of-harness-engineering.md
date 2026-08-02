@@ -1,6 +1,7 @@
 ---
 id: "HRN-002"
 title: "A Brief History of Harness Engineering"
+locale: "en"
 source: "https://santismm.com/en/handbook/a-brief-history-of-harness-engineering"
 ---
 # A Brief History of Harness Engineering

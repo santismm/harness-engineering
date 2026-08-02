@@ -1,6 +1,7 @@
 ---
 id: "HRN-004"
 title: "Harness Engineering Principles"
+locale: "en"
 source: "https://santismm.com/en/handbook/harness-engineering-principles"
 ---
 # Harness Engineering Principles

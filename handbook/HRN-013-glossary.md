@@ -1,6 +1,7 @@
 ---
 id: "HRN-013"
 title: "Glossary"
+locale: "en"
 source: "https://santismm.com/en/handbook/glossary"
 ---
 # Glossary

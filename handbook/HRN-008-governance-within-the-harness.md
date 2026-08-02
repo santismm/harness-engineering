@@ -1,6 +1,7 @@
 ---
 id: "HRN-008"
 title: "Governance within the Harness"
+locale: "en"
 source: "https://santismm.com/en/handbook/governance-within-the-harness"
 ---
 # Governance within the Harness

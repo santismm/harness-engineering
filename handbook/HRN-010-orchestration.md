@@ -1,6 +1,7 @@
 ---
 id: "HRN-010"
 title: "Orchestration"
+locale: "en"
 source: "https://santismm.com/en/handbook/orchestration"
 ---
 # Orchestration

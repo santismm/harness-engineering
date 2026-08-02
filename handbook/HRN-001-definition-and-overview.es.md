@@ -1,7 +1,8 @@
 ---
-id: "undefined"
+id: "HRN-001"
 title: "Ingeniería de Harness: definición y panorama"
-source: "https://santismm.com/en/handbook/definition-and-overview.es"
+locale: "es"
+source: "https://santismm.com/es/handbook/definition-and-overview"
 ---
 # Ingeniería de Harness: definición y panorama
 

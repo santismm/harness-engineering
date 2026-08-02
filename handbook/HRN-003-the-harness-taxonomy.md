@@ -1,6 +1,7 @@
 ---
 id: "HRN-003"
 title: "The Harness Taxonomy"
+locale: "en"
 source: "https://santismm.com/en/handbook/the-harness-taxonomy"
 ---
 # The Harness Taxonomy

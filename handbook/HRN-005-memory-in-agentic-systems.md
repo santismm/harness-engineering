@@ -1,6 +1,7 @@
 ---
 id: "HRN-005"
 title: "Memory in Agentic Systems"
+locale: "en"
 source: "https://santismm.com/en/handbook/memory-in-agentic-systems"
 ---
 # Memory in Agentic Systems

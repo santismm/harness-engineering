@@ -6,48 +6,25 @@ Generated from https://santismm.com — the single source of truth. Do not edit 
 
 ## Handbook
 
-- [undefined Ingeniería de Harness: definición y panorama](handbook/HRN-001-definition-and-overview.es.md) — canonical: https://santismm.com/en/handbook/definition-and-overview.es
+- [HRN-001 Ingeniería de Harness: definición y panorama (es)](handbook/HRN-001-definition-and-overview.es.md) — canonical: https://santismm.com/es/handbook/definition-and-overview
 - [HRN-001 Harness Engineering: Definition and Overview](handbook/HRN-001-definition-and-overview.md) — canonical: https://santismm.com/en/handbook/definition-and-overview
-- [undefined Engenharia de Harness: definição e panorama](handbook/HRN-001-definition-and-overview.pt.md) — canonical: https://santismm.com/en/handbook/definition-and-overview.pt
-- [undefined Breve historia de la Ingeniería de Harness](handbook/HRN-002-a-brief-history-of-harness-engineering.es.md) — canonical: https://santismm.com/en/handbook/a-brief-history-of-harness-engineering.es
 - [HRN-002 A Brief History of Harness Engineering](handbook/HRN-002-a-brief-history-of-harness-engineering.md) — canonical: https://santismm.com/en/handbook/a-brief-history-of-harness-engineering
-- [undefined Breve história da Engenharia de Harness](handbook/HRN-002-a-brief-history-of-harness-engineering.pt.md) — canonical: https://santismm.com/en/handbook/a-brief-history-of-harness-engineering.pt
-- [undefined La taxonomía del harness](handbook/HRN-003-the-harness-taxonomy.es.md) — canonical: https://santismm.com/en/handbook/the-harness-taxonomy.es
+- [HRN-003 La taxonomía del harness (es)](handbook/HRN-003-the-harness-taxonomy.es.md) — canonical: https://santismm.com/es/handbook/the-harness-taxonomy
 - [HRN-003 The Harness Taxonomy](handbook/HRN-003-the-harness-taxonomy.md) — canonical: https://santismm.com/en/handbook/the-harness-taxonomy
-- [undefined A taxonomia do harness](handbook/HRN-003-the-harness-taxonomy.pt.md) — canonical: https://santismm.com/en/handbook/the-harness-taxonomy.pt
-- [undefined Principios de Ingeniería de Harness](handbook/HRN-004-harness-engineering-principles.es.md) — canonical: https://santismm.com/en/handbook/harness-engineering-principles.es
+- [HRN-003 A taxonomia do harness (pt)](handbook/HRN-003-the-harness-taxonomy.pt.md) — canonical: https://santismm.com/pt/handbook/the-harness-taxonomy
+- [HRN-004 Principios de Ingeniería de Harness (es)](handbook/HRN-004-harness-engineering-principles.es.md) — canonical: https://santismm.com/es/handbook/harness-engineering-principles
 - [HRN-004 Harness Engineering Principles](handbook/HRN-004-harness-engineering-principles.md) — canonical: https://santismm.com/en/handbook/harness-engineering-principles
-- [undefined Princípios de Engenharia de Harness](handbook/HRN-004-harness-engineering-principles.pt.md) — canonical: https://santismm.com/en/handbook/harness-engineering-principles.pt
-- [undefined Memoria en sistemas agénticos](handbook/HRN-005-memory-in-agentic-systems.es.md) — canonical: https://santismm.com/en/handbook/memory-in-agentic-systems.es
+- [HRN-004 Princípios de Engenharia de Harness (pt)](handbook/HRN-004-harness-engineering-principles.pt.md) — canonical: https://santismm.com/pt/handbook/harness-engineering-principles
 - [HRN-005 Memory in Agentic Systems](handbook/HRN-005-memory-in-agentic-systems.md) — canonical: https://santismm.com/en/handbook/memory-in-agentic-systems
-- [undefined Memória em sistemas agênticos](handbook/HRN-005-memory-in-agentic-systems.pt.md) — canonical: https://santismm.com/en/handbook/memory-in-agentic-systems.pt
-- [undefined Observabilidad para sistemas agénticos](handbook/HRN-006-observability-for-agentic-systems.es.md) — canonical: https://santismm.com/en/handbook/observability-for-agentic-systems.es
 - [HRN-006 Observability for Agentic Systems](handbook/HRN-006-observability-for-agentic-systems.md) — canonical: https://santismm.com/en/handbook/observability-for-agentic-systems
-- [undefined Observabilidade para sistemas agênticos](handbook/HRN-006-observability-for-agentic-systems.pt.md) — canonical: https://santismm.com/en/handbook/observability-for-agentic-systems.pt
-- [undefined Evaluación de sistemas agénticos](handbook/HRN-007-evaluation-of-agentic-systems.es.md) — canonical: https://santismm.com/en/handbook/evaluation-of-agentic-systems.es
 - [HRN-007 Evaluation of Agentic Systems](handbook/HRN-007-evaluation-of-agentic-systems.md) — canonical: https://santismm.com/en/handbook/evaluation-of-agentic-systems
-- [undefined Avaliação de sistemas agênticos](handbook/HRN-007-evaluation-of-agentic-systems.pt.md) — canonical: https://santismm.com/en/handbook/evaluation-of-agentic-systems.pt
-- [undefined Gobernanza dentro del harness](handbook/HRN-008-governance-within-the-harness.es.md) — canonical: https://santismm.com/en/handbook/governance-within-the-harness.es
 - [HRN-008 Governance within the Harness](handbook/HRN-008-governance-within-the-harness.md) — canonical: https://santismm.com/en/handbook/governance-within-the-harness
-- [undefined Governação dentro do harness](handbook/HRN-008-governance-within-the-harness.pt.md) — canonical: https://santismm.com/en/handbook/governance-within-the-harness.pt
-- [undefined Planificación y gestión de objetivos](handbook/HRN-009-planning-and-goal-management.es.md) — canonical: https://santismm.com/en/handbook/planning-and-goal-management.es
 - [HRN-009 Planning and Goal Management](handbook/HRN-009-planning-and-goal-management.md) — canonical: https://santismm.com/en/handbook/planning-and-goal-management
-- [undefined Planeamento e gestão de objetivos](handbook/HRN-009-planning-and-goal-management.pt.md) — canonical: https://santismm.com/en/handbook/planning-and-goal-management.pt
-- [undefined Orquestación](handbook/HRN-010-orchestration.es.md) — canonical: https://santismm.com/en/handbook/orchestration.es
 - [HRN-010 Orchestration](handbook/HRN-010-orchestration.md) — canonical: https://santismm.com/en/handbook/orchestration
-- [undefined Orquestração](handbook/HRN-010-orchestration.pt.md) — canonical: https://santismm.com/en/handbook/orchestration.pt
-- [undefined Seguridad para sistemas agénticos](handbook/HRN-011-security-for-agentic-systems.es.md) — canonical: https://santismm.com/en/handbook/security-for-agentic-systems.es
 - [HRN-011 Security for Agentic Systems](handbook/HRN-011-security-for-agentic-systems.md) — canonical: https://santismm.com/en/handbook/security-for-agentic-systems
-- [undefined Segurança para sistemas agênticos](handbook/HRN-011-security-for-agentic-systems.pt.md) — canonical: https://santismm.com/en/handbook/security-for-agentic-systems.pt
-- [undefined Casos de estudio en Ingeniería de Harness](handbook/HRN-012-case-studies-in-harness-engineering.es.md) — canonical: https://santismm.com/en/handbook/case-studies-in-harness-engineering.es
 - [HRN-012 Case Studies in Harness Engineering](handbook/HRN-012-case-studies-in-harness-engineering.md) — canonical: https://santismm.com/en/handbook/case-studies-in-harness-engineering
-- [undefined Estudos de caso em Engenharia de Harness](handbook/HRN-012-case-studies-in-harness-engineering.pt.md) — canonical: https://santismm.com/en/handbook/case-studies-in-harness-engineering.pt
-- [undefined Glosario](handbook/HRN-013-glossary.es.md) — canonical: https://santismm.com/en/handbook/glossary.es
 - [HRN-013 Glossary](handbook/HRN-013-glossary.md) — canonical: https://santismm.com/en/handbook/glossary
-- [undefined Glossário](handbook/HRN-013-glossary.pt.md) — canonical: https://santismm.com/en/handbook/glossary.pt
-- [undefined Bibliografía](handbook/HRN-014-bibliography.es.md) — canonical: https://santismm.com/en/handbook/bibliography.es
 - [HRN-014 Bibliography](handbook/HRN-014-bibliography.md) — canonical: https://santismm.com/en/handbook/bibliography
-- [undefined Bibliografia](handbook/HRN-014-bibliography.pt.md) — canonical: https://santismm.com/en/handbook/bibliography.pt
 
 ## Patterns
 

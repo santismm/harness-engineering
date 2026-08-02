@@ -1,6 +1,7 @@
 ---
 id: "HRN-009"
 title: "Planning and Goal Management"
+locale: "en"
 source: "https://santismm.com/en/handbook/planning-and-goal-management"
 ---
 # Planning and Goal Management

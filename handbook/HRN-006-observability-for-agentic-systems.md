@@ -1,6 +1,7 @@
 ---
 id: "HRN-006"
 title: "Observability for Agentic Systems"
+locale: "en"
 source: "https://santismm.com/en/handbook/observability-for-agentic-systems"
 ---
 # Observability for Agentic Systems

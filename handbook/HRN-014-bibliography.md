@@ -1,6 +1,7 @@
 ---
 id: "HRN-014"
 title: "Bibliography"
+locale: "en"
 source: "https://santismm.com/en/handbook/bibliography"
 ---
 # Bibliography

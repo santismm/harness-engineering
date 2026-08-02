@@ -1,6 +1,7 @@
 ---
 id: "HRN-001"
 title: "Harness Engineering: Definition and Overview"
+locale: "en"
 source: "https://santismm.com/en/handbook/definition-and-overview"
 ---
 # Harness Engineering: Definition and Overview

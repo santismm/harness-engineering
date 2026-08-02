@@ -1,6 +1,7 @@
 ---
 id: "HRN-007"
 title: "Evaluation of Agentic Systems"
+locale: "en"
 source: "https://santismm.com/en/handbook/evaluation-of-agentic-systems"
 ---
 # Evaluation of Agentic Systems
